@@ -8,11 +8,11 @@ Worked for big companies such as Samsung, HP and Motorola, and made part of Top 
 Seeking for opportunities to apply my knowledge in real projects. 
 Constantly learning. Currently evolving my automation testing background in Java, Python and Cypress. Working on projects using Django, Selenium, Pandas (for data analysis) and Github.
 
-### **Projects**
+### Projects
 
 * **Please reference my highlighted repositories.**
 
-### **Languages & Frameworks**
+### Languages & Frameworks
 <br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,7 +20,7 @@ Constantly learning. Currently evolving my automation testing background in Java
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge&logo=beautifulsoup4&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=python&logoColor=white)
 
-### **Test Automation**
+### Test Automation
 <br>
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
