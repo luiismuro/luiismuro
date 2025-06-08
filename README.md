@@ -5,6 +5,7 @@
 🎯 A QA SW. Test Analyst and QA Engineer under formation.  
 💡 Skilled in Manual testing in Mobile devices, experienced with over 12 years in software testing area and certified by ISTQB/BSTQB.  
 🌐 Worked for big companies such as Samsung, HP and Motorola, and made part of Top Tier product testing phase.
+
 🔍 Seeking for opportunities to apply my knowledge in real projects. 
 🌱 Constantly learning. Currently evolving my automation testing background in Java, Python and Cypress. Working on projects using Django, Selenium, Pandas (for data analysis) and Github.
 
