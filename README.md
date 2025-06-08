@@ -1,6 +1,6 @@
 # **About me** 
 
-## I'm Luis Muro,
+### I'm Luis Muro,
 
 A QA SW. Test Analyst and QA Engineer under formation.  
 Skilled in Manual testing in Mobile devices, experienced with over 12 years in software testing area and certified by ISTQB/BSTQB.  
