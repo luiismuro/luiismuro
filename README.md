@@ -8,11 +8,11 @@ Worked for big companies such as Samsung, HP and Motorola, and made part of Top 
 Seeking for opportunities to apply my knowledge in real projects. 
 Constantly learning. Currently evolving my automation testing background in Java, Python and Cypress. Working on projects using Django, Selenium, Pandas (for data analysis) and Github.
 
-### Projects
+## Projects
 
 * **Please reference my highlighted repositories.**
 
-### Languages & Frameworks
+## Languages & Frameworks
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,18 +20,18 @@ Constantly learning. Currently evolving my automation testing background in Java
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge&logo=beautifulsoup4&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=python&logoColor=white)
 
-### Test Automation
+## Test Automation
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
-### Data Analysis
+## Data Analysis
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
-### Tools & DevOps
+## Tools & DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -42,17 +42,17 @@ Constantly learning. Currently evolving my automation testing background in Java
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
-### Mobile / Android
+## Mobile / Android
 
 ![ADB](https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### Methodologies
+## Methodologies
 
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 
-### Skills
+## Skills
 
 * Automated Testing - **Java: Selenium | Cypress**
 * WebScraping - Python: **Requests, Beautiful Soup**
@@ -61,7 +61,7 @@ Constantly learning. Currently evolving my automation testing background in Java
 * CI/CD - **GitHub, Github Actions**
 * Git/GitHub for versioning and collaboration.
 
-### 🔧 **Tools / Skills and Methodologies I used over my career:**
+## 🔧 **Tools / Skills and Methodologies I used over my career:**
   - **GCP: Google Sheets for user trials project management, Google Big Query - For SQL Querying, Looker Studio for Data Analysis**
   - **Jenkins: CI/CD | Deploy servers | DevOps servers | Repositories (Internally)**
   - **VS Code | Eclipse | IntelliJ IDEA**
@@ -70,7 +70,7 @@ Constantly learning. Currently evolving my automation testing background in Java
   - **Android Debug Bridge - ADB: Scripting and log collection on Android OS**
   - **Scrum | Kanban**
 
-### 🧪 **Test types and levels I already worked in:**
+## 🧪 **Test types and levels I already worked in:**
   - Exploratory Testing
   - Performance Testing
   - Network Testing
@@ -85,7 +85,7 @@ Constantly learning. Currently evolving my automation testing background in Java
   - System Testing
   - Acceptance Testing 
 
-### 💬 Let's connect?
+## 💬 Let's connect?
 - [LinkedIn](https://www.linkedin.com/in/luiismuro/)
 - [Blog](https://nextgenqahub.wixsite.com/nxtgen-qa/en)
 - Email: luiismuro@gmail.com
