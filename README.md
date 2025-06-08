@@ -8,18 +8,18 @@ Constantly learning. Currently evolving my automation testing background in Java
 
 🚀 Projects
 
-🔹 
-🔹 
-🔹 
+* .
+* .
+* .
 
 ✨ Skills
 
-🔹 Automated Testing - **Java: Selenium | Cypress**
-🔹 WebScraping - Python: **Requests, Beautiful Soup**
-🔹 Data Analysis - Python: **Pandas**
-🔹 Web Development - Python: **Django**
-🔹 CI/CD - **GitHub, Github Actions**
-🔹Git/GitHub for versioning and collaboration.
+* Automated Testing - **Java: Selenium | Cypress**
+* WebScraping - Python: **Requests, Beautiful Soup**
+* Data Analysis - Python: **Pandas**
+* Web Development - Python: **Django**
+* CI/CD - **GitHub, Github Actions**
+* Git/GitHub for versioning and collaboration.
 
 🔧 Tools / Skills and Methodologies I used over my career:
   - **GCP: Google Sheets for user trials project management, Google Big Query - For SQL Querying, Looker Studio for Data Analysis**
@@ -42,8 +42,8 @@ Constantly learning. Currently evolving my automation testing background in Java
   - Application Testing
   - Automated
   - E2E
-  * System Testing
-  * Acceptance Testing 
+  - System Testing
+  - Acceptance Testing 
 
 💬 Let's connect?
 - [LinkedIn](https://www.linkedin.com/in/luiismuro/)
