@@ -8,9 +8,7 @@ Constantly learning. Currently evolving my automation testing background in Java
 
 🚀 Projects
 
-* .
-* .
-* .
+* **Please reference my highlighted repositories**
 
 ✨ Skills
 
