@@ -51,25 +51,6 @@ Constantly learning. Currently evolving my automation testing background in Java
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-
-## Skills
-
-* Automated Testing - **Java: Selenium | Cypress**
-* WebScraping - Python: **Requests, Beautiful Soup**
-* Data Analysis - Python: **Pandas**
-* Web Development - Python: **Django**
-* CI/CD - **GitHub, Github Actions**
-* Git/GitHub for versioning and collaboration.
-
-## 🔧 **Tools / Skills and Methodologies I used over my career:**
-  - **GCP: Google Sheets for user trials project management, Google Big Query - For SQL Querying, Looker Studio for Data Analysis**
-  - **Jenkins: CI/CD | Deploy servers | DevOps servers | Repositories (Internally)**
-  - **VS Code | Eclipse | IntelliJ IDEA**
-  - **Outlook**
-  - **JIRA: Defect tracking and management, JQL Filters, Dashboards, Production deployment documents.**
-  - **Android Debug Bridge - ADB: Scripting and log collection on Android OS**
-  - **Scrum | Kanban**
-
 ## 🧪 **Test types and levels I already worked in:**
   - Exploratory Testing
   - Performance Testing
